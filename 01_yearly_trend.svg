@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="500" viewBox="0 0 920 500">
+<rect width="100%" height="100%" fill="white"/>
+<text x="24" y="34" font-family="Arial" font-size="22" font-weight="700">NYC shooting incidents by year</text>
+<line x1="76" y1="438" x2="884" y2="438" stroke="#333"/>
+<line x1="76" y1="58" x2="76" y2="438" stroke="#333"/>
+<polyline points="76.0,58.0 116.4,88.1 156.8,69.2 197.2,93.4 237.6,80.6 278.0,71.6 318.4,104.8 358.8,170.3 399.2,153.6 439.6,161.9 480.0,196.1 520.4,246.5 560.8,255.0 601.2,249.5 641.6,66.3 682.0,59.0 722.4,124.0 762.8,201.7 803.2,218.6 843.6,271.1 884.0,359.9" fill="none" stroke="#2f6f7e" stroke-width="4"/>
+<circle cx="76.0" cy="58.0" r="4.5" fill="#2f6f7e"/>
+<text x="76.0" y="470" font-family="Arial" font-size="12" text-anchor="middle">2006</text>
+<circle cx="116.4" cy="88.1" r="4.5" fill="#2f6f7e"/>
+<circle cx="156.8" cy="69.2" r="4.5" fill="#2f6f7e"/>
+<text x="156.8" y="470" font-family="Arial" font-size="12" text-anchor="middle">2008</text>
+<circle cx="197.2" cy="93.4" r="4.5" fill="#2f6f7e"/>
+<circle cx="237.6" cy="80.6" r="4.5" fill="#2f6f7e"/>
+<text x="237.6" y="470" font-family="Arial" font-size="12" text-anchor="middle">2010</text>
+<circle cx="278.0" cy="71.6" r="4.5" fill="#2f6f7e"/>
+<circle cx="318.4" cy="104.8" r="4.5" fill="#2f6f7e"/>
+<text x="318.4" y="470" font-family="Arial" font-size="12" text-anchor="middle">2012</text>
+<circle cx="358.8" cy="170.3" r="4.5" fill="#2f6f7e"/>
+<circle cx="399.2" cy="153.6" r="4.5" fill="#2f6f7e"/>
+<text x="399.2" y="470" font-family="Arial" font-size="12" text-anchor="middle">2014</text>
+<circle cx="439.6" cy="161.9" r="4.5" fill="#2f6f7e"/>
+<circle cx="480.0" cy="196.1" r="4.5" fill="#2f6f7e"/>
+<text x="480.0" y="470" font-family="Arial" font-size="12" text-anchor="middle">2016</text>
+<circle cx="520.4" cy="246.5" r="4.5" fill="#2f6f7e"/>
+<circle cx="560.8" cy="255.0" r="4.5" fill="#2f6f7e"/>
+<text x="560.8" y="470" font-family="Arial" font-size="12" text-anchor="middle">2018</text>
+<circle cx="601.2" cy="249.5" r="4.5" fill="#2f6f7e"/>
+<circle cx="641.6" cy="66.3" r="4.5" fill="#2f6f7e"/>
+<text x="641.6" y="470" font-family="Arial" font-size="12" text-anchor="middle">2020</text>
+<circle cx="682.0" cy="59.0" r="4.5" fill="#2f6f7e"/>
+<circle cx="722.4" cy="124.0" r="4.5" fill="#2f6f7e"/>
+<text x="722.4" y="470" font-family="Arial" font-size="12" text-anchor="middle">2022</text>
+<circle cx="762.8" cy="201.7" r="4.5" fill="#2f6f7e"/>
+<circle cx="803.2" cy="218.6" r="4.5" fill="#2f6f7e"/>
+<text x="803.2" y="470" font-family="Arial" font-size="12" text-anchor="middle">2024</text>
+<circle cx="843.6" cy="271.1" r="4.5" fill="#2f6f7e"/>
+<circle cx="884.0" cy="359.9" r="4.5" fill="#2f6f7e"/>
+<text x="884.0" y="470" font-family="Arial" font-size="12" text-anchor="middle">2026</text>
+<text x="18" y="66" font-family="Arial" font-size="12">1,566</text>
+</svg>

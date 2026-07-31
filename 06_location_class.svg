@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="500" viewBox="0 0 920 500">
+<rect width="100%" height="100%" fill="white"/>
+<text x="24" y="34" font-family="Arial" font-size="22" font-weight="700">Shooting incidents by location classification</text>
+<line x1="92" y1="418" x2="892" y2="418" stroke="#333"/>
+<line x1="92" y1="58" x2="92" y2="418" stroke="#333"/>
+<rect x="106.0" y="58.0" width="72.0" height="360.0" fill="#466a9f"/>
+<text x="142.0" y="455" font-family="Arial" font-size="12" text-anchor="middle">STREET</text>
+<text x="142.0" y="52.0" font-family="Arial" font-size="12" text-anchor="middle">15,902</text>
+<rect x="206.0" y="316.2" width="72.0" height="101.8" fill="#466a9f"/>
+<text x="242.0" y="455" font-family="Arial" font-size="12" text-anchor="middle">HOUSING</text>
+<text x="242.0" y="310.2" font-family="Arial" font-size="12" text-anchor="middle">4,495</text>
+<rect x="306.0" y="373.6" width="72.0" height="44.4" fill="#466a9f"/>
+<text x="342.0" y="455" font-family="Arial" font-size="12" text-anchor="middle">DWELLING</text>
+<text x="342.0" y="367.6" font-family="Arial" font-size="12" text-anchor="middle">1,963</text>
+<rect x="406.0" y="394.9" width="72.0" height="23.1" fill="#466a9f"/>
+<text x="442.0" y="455" font-family="Arial" font-size="12" text-anchor="middle">COMMERCIAL</text>
+<text x="442.0" y="388.9" font-family="Arial" font-size="12" text-anchor="middle">1,022</text>
+<rect x="506.0" y="411.5" width="72.0" height="6.5" fill="#466a9f"/>
+<text x="542.0" y="455" font-family="Arial" font-size="12" text-anchor="middle">PLAYGROUND</text>
+<text x="542.0" y="405.5" font-family="Arial" font-size="12" text-anchor="middle">286</text>
+<rect x="606.0" y="411.7" width="72.0" height="6.3" fill="#466a9f"/>
+<text x="642.0" y="455" font-family="Arial" font-size="12" text-anchor="middle">VEHICLE</text>
+<text x="642.0" y="405.7" font-family="Arial" font-size="12" text-anchor="middle">277</text>
+<rect x="706.0" y="414.9" width="72.0" height="3.1" fill="#466a9f"/>
+<text x="742.0" y="455" font-family="Arial" font-size="12" text-anchor="middle">OTHER</text>
+<text x="742.0" y="408.9" font-family="Arial" font-size="12" text-anchor="middle">138</text>
+<rect x="806.0" y="416.2" width="72.0" height="1.8" fill="#466a9f"/>
+<text x="842.0" y="455" font-family="Arial" font-size="12" text-anchor="middle">TRANSIT</text>
+<text x="842.0" y="410.2" font-family="Arial" font-size="12" text-anchor="middle">80</text>
+</svg>

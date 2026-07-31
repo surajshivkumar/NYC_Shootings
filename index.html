@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NYPD Shootings Spatial Hotspots</title>
+  <style>
+    body {
+      margin: 0;
+      background: #0d1117;
+      color: #f0f6fc;
+      font-family: Arial, sans-serif;
+    }
+    main {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 32px 20px 56px;
+    }
+    h1 {
+      margin: 0 0 8px;
+      font-size: 30px;
+    }
+    p {
+      color: #c9d1d9;
+      line-height: 1.45;
+      max-width: 900px;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+      gap: 18px;
+      margin-top: 24px;
+    }
+    figure {
+      margin: 0;
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 8px;
+      overflow: hidden;
+    }
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+    figcaption {
+      padding: 12px 14px 14px;
+      color: #c9d1d9;
+      font-size: 14px;
+    }
+    a {
+      color: #58a6ff;
+    }
+  </style>
+</head>
+<body>
+<main>
+  <h1>NYPD Shootings Spatial Hotspots</h1>
+  <p>
+    Coordinates corrected as <code>lat = Longitude</code> and <code>lon = Latitude</code>.
+    DBSCAN uses a 350m radius and minimum 35 incidents. Open the
+    <a href="interactive_dbscan_hotspots.html">interactive DBSCAN explorer</a> for hoverable points.
+    For the center movement, use the
+    <a href="center_click_through.html">click-through annual center</a> or the
+    <a href="borough_center_click_through.html">borough-wise center explorer</a>.
+  </p>
+  <div class="grid">
+    <figure>
+      <img src="01_density_hexbin.png" alt="All incident density hexbin map">
+      <figcaption>All-incident density, log scale.</figcaption>
+    </figure>
+    <figure>
+      <img src="02_dbscan_hotspot_belts.png" alt="DBSCAN hotspot belts">
+      <figcaption>Top DBSCAN hotspot belts. The top three belts contain 61.7% of geocoded incidents.</figcaption>
+    </figure>
+    <figure>
+      <img src="03_hotspot_shift_early_vs_recent.png" alt="Hotspot shift from early era to recent era">
+      <figcaption>Annualized 500m-cell change: 2023-2025 versus 2006-2011.</figcaption>
+    </figure>
+    <figure>
+      <img src="04_emerging_fading_250m_cells.png" alt="Emerging and fading micro hotspots">
+      <figcaption>250m micro-hotspots that emerged or faded.</figcaption>
+    </figure>
+    <figure>
+      <img src="05_dbscan_cluster_timeline.png" alt="DBSCAN cluster timeline heatmap">
+      <figcaption>Annual activity inside the largest hotspot belts.</figcaption>
+    </figure>
+    <figure>
+      <img src="06_centroid_path.png" alt="Annual and cumulative centroid path">
+      <figcaption>Annual center and cumulative center path. Center means the mean projected x/y point across incidents.</figcaption>
+    </figure>
+    <figure>
+      <img src="shooting_centroid_shift_2006_2025.gif" alt="Animated centroid shift by year">
+      <figcaption>Year-by-year animation of the annual and cumulative shooting center.</figcaption>
+    </figure>
+    <figure>
+      <img src="shooting_center_click_click_2006_2025.gif" alt="Click-style annual center animation">
+      <figcaption>Clean annual-center movement only: no fixed start/end anchor, no cumulative center.</figcaption>
+    </figure>
+    <figure>
+      <a href="borough_center_click_through.html"><img src="06_centroid_path.png" alt="Borough-wise center explorer link"></a>
+      <figcaption>Open the borough-wise interactive center explorer with borough buttons and a clickable year slider.</figcaption>
+    </figure>
+    <figure>
+      <img src="shootings_hotspot_animation_2006_2026.gif" alt="Animated shooting incidents by year">
+      <figcaption>Year-by-year animation of incidents and cumulative geography.</figcaption>
+    </figure>
+  </div>
+</main>
+</body>
+</html>

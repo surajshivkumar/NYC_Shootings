@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="500" viewBox="0 0 920 500">
+<rect width="100%" height="100%" fill="white"/>
+<text x="24" y="34" font-family="Arial" font-size="22" font-weight="700">Top 15 precincts by incident count</text>
+<line x1="92" y1="418" x2="892" y2="418" stroke="#333"/>
+<line x1="92" y1="58" x2="92" y2="418" stroke="#333"/>
+<text x="22" y="72.6" font-family="Arial" font-size="13">32</text>
+<rect x="92" y="61.8" width="275.8" height="14.9" fill="#b4573f"/>
+<text x="375.8" y="72.2" font-family="Arial" font-size="12">592</text>
+<text x="22" y="96.6" font-family="Arial" font-size="13">48</text>
+<rect x="92" y="85.8" width="316.8" height="14.9" fill="#b4573f"/>
+<text x="416.8" y="96.2" font-family="Arial" font-size="12">680</text>
+<text x="22" y="120.6" font-family="Arial" font-size="13">113</text>
+<rect x="92" y="109.8" width="321.0" height="14.9" fill="#b4573f"/>
+<text x="421.0" y="120.2" font-family="Arial" font-size="12">689</text>
+<text x="22" y="144.6" font-family="Arial" font-size="13">43</text>
+<rect x="92" y="133.8" width="327.6" height="14.9" fill="#b4573f"/>
+<text x="427.6" y="144.2" font-family="Arial" font-size="12">703</text>
+<text x="22" y="168.6" font-family="Arial" font-size="13">81</text>
+<rect x="92" y="157.8" width="329.4" height="14.9" fill="#b4573f"/>
+<text x="429.4" y="168.2" font-family="Arial" font-size="12">707</text>
+<text x="22" y="192.6" font-family="Arial" font-size="13">77</text>
+<rect x="92" y="181.8" width="343.9" height="14.9" fill="#b4573f"/>
+<text x="443.9" y="192.2" font-family="Arial" font-size="12">738</text>
+<text x="22" y="216.6" font-family="Arial" font-size="13">42</text>
+<rect x="92" y="205.8" width="350.4" height="14.9" fill="#b4573f"/>
+<text x="450.4" y="216.2" font-family="Arial" font-size="12">752</text>
+<text x="22" y="240.6" font-family="Arial" font-size="13">46</text>
+<rect x="92" y="229.8" width="369.5" height="14.9" fill="#b4573f"/>
+<text x="469.5" y="240.2" font-family="Arial" font-size="12">793</text>
+<text x="22" y="264.6" font-family="Arial" font-size="13">40</text>
+<rect x="92" y="253.8" width="400.3" height="14.9" fill="#b4573f"/>
+<text x="500.3" y="264.2" font-family="Arial" font-size="12">859</text>
+<text x="22" y="288.6" font-family="Arial" font-size="13">47</text>
+<rect x="92" y="277.8" width="403.0" height="14.9" fill="#b4573f"/>
+<text x="503.0" y="288.2" font-family="Arial" font-size="12">865</text>
+<text x="22" y="312.6" font-family="Arial" font-size="13">79</text>
+<rect x="92" y="301.8" width="406.3" height="14.9" fill="#b4573f"/>
+<text x="506.3" y="312.2" font-family="Arial" font-size="12">872</text>
+<text x="22" y="336.6" font-family="Arial" font-size="13">44</text>
+<rect x="92" y="325.8" width="408.6" height="14.9" fill="#b4573f"/>
+<text x="508.6" y="336.2" font-family="Arial" font-size="12">877</text>
+<text x="22" y="360.6" font-family="Arial" font-size="13">67</text>
+<rect x="92" y="349.8" width="512.1" height="14.9" fill="#b4573f"/>
+<text x="612.1" y="360.2" font-family="Arial" font-size="12">1,099</text>
+<text x="22" y="384.6" font-family="Arial" font-size="13">73</text>
+<rect x="92" y="373.8" width="610.4" height="14.9" fill="#b4573f"/>
+<text x="710.4" y="384.2" font-family="Arial" font-size="12">1,310</text>
+<text x="22" y="408.6" font-family="Arial" font-size="13">75</text>
+<rect x="92" y="397.8" width="650.0" height="14.9" fill="#b4573f"/>
+<text x="750.0" y="408.2" font-family="Arial" font-size="12">1,395</text>
+</svg>
